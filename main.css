@@ -1,0 +1,21 @@
+.divone {
+    width: 90vw;
+    max-width: 1920px;
+    margin: auto;
+}
+img {
+    display: block;
+    width: 100%;
+    margin: 3rem auto;
+    aspect-ratio: 2:1;
+}
+.divtwo {
+    width: 90vw;
+    max-width: 1920px;
+    margin: auto;
+}
+.divthree {
+    width: 90vw;
+    max-width: 1920px;
+    margin: auto;
+}
